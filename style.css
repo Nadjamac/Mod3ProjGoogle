@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display:flex;
+    width: 100vw;
+    justify-content: flex-end;
+    margin-left: 5px;
+    margin-top: 50px 
+    
+}
+
+.item2{
+    text-decoration: underline;
+    display: flex;
+    margin-left: 5px;
+    justify-content: flex-end;
+    font-family: Arial, Helvetica, sans-serif; 
+   
+    
+}
+#pesquisa{
+    display: flexbox;
+    width: 100%;
+    height: 100%;
+    float: inherit;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    padding:20px;
+    border-radius: 10px;
+   
+}
+
+label{
+    
+    font-family: Arial, Helvetica, sans-serif; 
+    justify-content: center; 
+    height: 50px;
+    border: width 20px;
+    
+}
+
+.fazer-login {
+    background: rgb(55, 91, 209);
+    color: aliceblue;
+    text-decoration-style: initial;
+    border-width: 20;
+        
+}
+
+.centralizar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    ]justify-content: space-around;
+    padding: 1rem;
+}
+
+.botoes-meio {
+    display:flex;
+    color: aliceblue;
+    text-decoration-style: Arial;
+    background: rgb(160, 156, 156);
+    padding: 10 px;
+    margin-right: 10px;
+}
+
+
+form{
+    width:25em border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    padding: 10px;
+}
+input{
+    height: 30px;
+    padding-left: 30%;
+    border-color:grey;  
+    border-radius:15px;
+
+}
+
+
+.logo{
+    text-align: center;
+    padding-top: 100px;
+}
+
+  
+
